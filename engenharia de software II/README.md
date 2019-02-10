@@ -10,7 +10,6 @@ Trabalho de cadastramento de pessoa física ou jurídica, para contas de Energia
 ### Feito em:
 - [NetBeans](https://netbeans.org/)
 - [MySQL](https://www.mysql.com/)
-- [Astah](http://astah.net/)
 
 #### Professor: 
 Pasteur Junior
